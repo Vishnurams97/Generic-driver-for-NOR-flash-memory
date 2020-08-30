@@ -7,7 +7,7 @@
 #### These are some test results during development(from my personal views, may not be accurate!).
 
 <code>Time Taken for(Standard SPI 8MHz Clock/8MB Storage),
-            whole chip read -> 3 secs approx
-            whole chip program -> 11 secs approx
-            Erase Sector -> 20ms approx
-            Erase Block -> 300ms approx</code>
+            whole chip read -> 3 secs approx |
+            whole chip program -> 11 secs approx |
+            Erase Sector -> 20ms approx |
+            Erase Block -> 300ms approx.</code>
