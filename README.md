@@ -8,7 +8,7 @@ This is basic Storage driver for Flash ICs (here I have used Winbond 8MByte NOR 
 #### These are some test results during development(from my personal views, may not be accurate!).
 
 ## Requirements
-* NOR flash 8MB from Winbond.
+* 8MB/16MB/32MB NOR flash from Winbond.
 * NRF52 series devboards/custom boards.
 * nrf52 SDK
 
