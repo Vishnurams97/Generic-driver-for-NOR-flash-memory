@@ -13,7 +13,7 @@ This is basic Storage driver for Flash ICs (here I have used Winbond 8MByte NOR 
 * Nordic SDK
 
 <code>Time Taken for(Standard SPI 8MHz Clock/8MB Storage),</code>
-* whole chip read -> 3 secs approx |
-* whole chip program -> 11 secs approx |
-* Erase Sector -> 20ms approx |
-* Erase Block -> 300ms approx.
+* whole chip read -> 3 secs approx
+* whole chip program -> 9 secs approx
+* Erase Sector -> 20ms approx
+* Erase Block -> 300ms approx
