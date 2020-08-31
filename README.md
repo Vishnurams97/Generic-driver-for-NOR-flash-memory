@@ -10,7 +10,7 @@ This is basic Storage driver for Flash ICs (here I have used Winbond 8MByte NOR 
 ## Requirements
 * NOR flash 8MB from Winbond.
 * NRF52 series devboards/custom boards.
-* Nordic SDK
+* nrf52 SDK
 
 <code>Time Taken for(Standard SPI 8MHz Clock/8MB Storage),</code>
 * whole chip read -> 3 secs approx
